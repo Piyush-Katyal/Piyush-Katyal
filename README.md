@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Piyush%20Katyal&fontSize=90&fontAlign=65&animation=fadeIn)
+
 - 👋 Hi, I’m @Piyush-Katyal
 - 👀 I’m interested in software developement
 - 🌱 I’m currently learning C++
