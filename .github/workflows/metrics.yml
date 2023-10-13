@@ -27,7 +27,7 @@ jobs:
           # Options
           user: Piyush-Katyal
           template: classic
-          base: repositories
+          base: ""
           config_display: columns
           config_octicon: yes
           config_timezone: Asia/Calcutta
@@ -37,9 +37,5 @@ jobs:
           plugin_achievements_threshold: C
           plugin_followup: yes
           plugin_followup_archived: yes
+          plugin_followup_indepth: yes
           plugin_followup_sections: repositories
-          plugin_leetcode: yes
-          plugin_leetcode_limit_recent: 2
-          plugin_leetcode_limit_skills: 10
-          plugin_leetcode_sections: solved
-          plugin_leetcode_user: proton7
