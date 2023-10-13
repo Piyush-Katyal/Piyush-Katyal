@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on any interesting project subset to my skills
 
+![](https://leetcard.jacoblin.cool/proton7?cache=0&ext=heatmap&theme=nord)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=proton7&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
   
 ![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Piyush-Katyal&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-Katyal&layout=compact)
