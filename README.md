@@ -1,33 +1,59 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Piyush%20Katyal&fontSize=50&fontAlign=80&animation=fadeIn&customColorList=6,12,20,24)
-- 👋 Hi, I’m @Piyush-Katyal
-- 👀 I’m interested in software developement
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on any interesting project subset to my skills
 
-![Metrics](https://metrics.lecoq.io/Piyush-Katyal?template=classic&base.header=0&base.activity=0&base.community=0&base.metadata=0&achievements=1&leetcode=1&followup=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&leetcode=false&leetcode.user=proton7&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&config.timezone=Asia%2FCalcutta&config.octicon=true&config.display=columns)
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
 
-![](https://leetcard.jacoblin.cool/proton7?cache=0&ext=heatmap&theme=nord)
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=proton7&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-  
-![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Piyush-Katyal&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-Katyal&layout=compact)
-![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Piyush-Katyal&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dracula)
+<h3 align="left">🛠 Language and tools</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Piyush-Katyal&theme=nord&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+###
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Piyush-Katyal&theme=material-palenight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+</div>
 
-<details>
-  <summary>Profile Views 👁️</summary>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=Piyush-Katyal&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen" style="border-radius: 5px">
-</details>
+###
 
-[![HitCount](https://hits.dwyl.com/Piyush-Katyal/Piyush-Katyal.svg?style=flat-square)](http://hits.dwyl.com/Piyush-Katyal/Piyush-Katyal)
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=piyushk77&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=5&order=3" height="180" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushk77&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=true&order=2" height="180" alt="languages graph"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
+
+###
+
+![](https://leetcard.jacoblin.cool/proton7?cache=0&ext=activity&theme=nord)
+
   
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
+
 <!---
 Piyush-Katyal/Piyush-Katyal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
